@@ -1,6 +1,6 @@
 ![I am samiulalimhp](https://github.com/samiulalimhp/samiulalimhp/blob/main/code.png)
 
-<h1 align="center">Hi 👋, I'm HARUN UR ROSHID(Tutul)</h1>
+<h1 align="center">Hi 👋, I'm SAMIUL ALIM(Sami)</h1>
 <h3 align="center">Programmer | AI Automation Engineer | Web Designer | Content Creator</h3>
 <h4 align="center">Co-founder & Chief Operating Officer at Hablu Programmer</h4>
 
